@@ -5,5 +5,5 @@ window.SITE = {
   // Адреса бази Firebase (Realtime Database)
   dbUrl: "",
   // Web API Key з Firebase: Project settings -> General. Потрібен тільки для admin.html
-  apiKey: ""
+  apiKey: "AIzaSyDO7wnHyAWhpye6AIbfNFmYAUfakzEYLyM"
 };
