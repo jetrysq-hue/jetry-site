@@ -5,7 +5,7 @@ window.SITE = {
   // Адреса бази Firebase (Realtime Database)
   dbUrl: "https://jetry-site-default-rtdb.europe-west1.firebasedatabase.app",
   // Web API Key з Firebase: Project settings -> General. Потрібен тільки для admin.html
-  apiKey: "AIzaSyDO7wnHyAWhpye6AIbfNFmYAUfakzEYLyM",
+  apiKey: "AIzaSyB5PAisHgjkf169fsAqDEiaMlRdnJ_OD-k",
   // Ваші заборонені слова для ніків (додаються до вбудованого фільтру).
   // Пишіть маленькими літерами, через кому. Приклад: ["слово1", "слово2"]
   badWords: ['хуи', 'хуе', 'хуя', 'хул', 'хую',
